@@ -1,2 +1,1 @@
-# afo
 Algorithms for Optimisation
